@@ -1,2 +1,2 @@
-# Algorithms-and-Data-Structures
-Corsera - Algorithms and Data Structures Part1
+# Algorithms-Part-I
+Corsera - Algorithms, Part1

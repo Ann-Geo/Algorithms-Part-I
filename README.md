@@ -1,2 +1,2 @@
-# Algorithms-Part-I
-Corsera - Algorithms, Part1
+### Algorithms-Part-I
+Programming assignments from Coursera - Algorithms, Part1
